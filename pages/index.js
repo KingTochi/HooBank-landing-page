@@ -14,7 +14,7 @@ import {
   Stats,
   Testimonials,
   Hero,
-} from "./components";
+} from "../components";
 
 const inter = Poppins({
   subsets: ["latin"],

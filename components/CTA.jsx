@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "./Button";
-import styles from "../style";
+import styles from "../pages/style";
 
 const CTA = () => {
   return (

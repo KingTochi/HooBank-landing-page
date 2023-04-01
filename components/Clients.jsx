@@ -1,6 +1,6 @@
 import React from "react";
 import { clients } from "../constants";
-import styles from "../style";
+import styles from "../pages/style";
 import Image from "next/image";
 
 const Clients = () => {

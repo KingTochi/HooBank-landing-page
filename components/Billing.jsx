@@ -1,6 +1,6 @@
 import React from "react";
 import { apple, bill, google } from "@/public";
-import styles, { layout } from "../style";
+import styles, { layout } from "../pages/style";
 import Image from "next/image";
 
 const Billing = () => {
