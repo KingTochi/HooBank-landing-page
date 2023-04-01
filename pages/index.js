@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { Poppins } from "next/font/google";
 
-import styles from "./style";
+import styles from "../styles/style";
 import {
   Billing,
   Business,

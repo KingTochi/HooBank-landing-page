@@ -1,5 +1,5 @@
 import React from "react";
-import styles, { layout } from "../pages/style";
+import styles, { layout } from "../styles/style";
 import Image from "next/image";
 import { features } from "../constants";
 import Button from "./Button";

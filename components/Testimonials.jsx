@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import styles from "../pages/style";
+import styles from "../styles/style";
 import FeedbackCard from "./FeedbackCard";
 import { feedback } from "../constants";
 

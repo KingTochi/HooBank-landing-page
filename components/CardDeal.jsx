@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import styles, { layout } from "../pages/style";
+import styles, { layout } from "../styles/style";
 import { card } from "@/public";
 import Button from "./Button";
 

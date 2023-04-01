@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../pages/style";
+import styles from "../styles/style";
 import { arrowUp } from "@/public";
 import Image from "next/image";
 
